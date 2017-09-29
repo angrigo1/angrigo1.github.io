@@ -1,0 +1,54 @@
+#wrapper {
+   width: 600px;
+   margin: 0 auto;
+}
+#content {
+   width: 600px;
+   float: center;
+}
+#headerInner {
+width: 600px;
+float: center;
+	}
+h3 {
+  font-family: cursive;
+}
+.title {
+	font-family: Lobster, Monospace;
+	color: red;
+	text-align: center;
+}
+.inform{
+	height: 130px;
+}
+.inform__image {
+	width: 100px;
+    border-radius: 30%;
+    float: left; /* Выравнивание по левому краю */
+    margin: 0 1em; /* Отступ справа и снизу */
+}
+.inform__fio {
+	font-size: 16px;
+    font-family: Monospace;
+    text-align: justify;
+}
+.education {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
+.courses {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
+.experience {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
+.about {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
