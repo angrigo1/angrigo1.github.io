@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 body {
-  background-color:  #507299;;
+  background-color:  #507299;
+  border-radius: 20%;
 }
 #wrapper {
    width: 600px;
