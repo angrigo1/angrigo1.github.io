@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body {
+  background-color:  #507299;;
+}
+#wrapper {
+   width: 600px;
+   height: 100%;
+   margin: 0 auto;
+  background: #edeef0;
+}
+#content {
+   width: 600px;
+   float: center;
+}
+#headerInner {
+margin:0 auto;
+width: 600px;
+float: center;
+	}
+h3 {
+  font-family: cursive;
+}
+.title {
+	font-family: Lobster, Monospace;
+	color: red;
+	text-align: center;
+}
+.inform{
+	height: 120px;
+  font-size: 16px;
+  font-family: Monospace;
+}
+.inform__image {
+	width: 100px;
+  border-radius: 30%;
+  margin: 0 1em; /* Отступ справа и снизу */
+  float: left;
+}
+.education {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
+.courses {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
+.experience {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
+.about {
+font-size: 16px;
+font-family: Monospace;
+text-align: justify;
+}
