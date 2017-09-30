@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+   #wrapper {
+      width: 95%;
+      height: 100%;
+   }
+   #content {
+      width: 60%;
+      padding: 3% 4%;
+  }
+  @media screen and (max-width: 550px) {
+   #headerInner {
+      height: auto;
+      margin: 15px 100px 5px 0;
+      position: static;
+   }
+ #content {
+      width: auto;
+      float: none;
+      margin: 20px 0;
+   }
+   @media screen and (max-width: 480px) {
+   html {
+      -webkit-text-size-adjust: none;
+   }
