@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 body {
   background-color:  #507299;
-  border-radius: 20%;
 }
 #wrapper {
    width: 600px;
    height: 100%;
    margin: 0 auto;
   background: #edeef0;
-  border-radius: 20%;
 }
 #content {
    width: 600px;
